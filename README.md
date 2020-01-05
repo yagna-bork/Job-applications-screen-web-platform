@@ -6,7 +6,7 @@ Concept was to help them shift towards a more dynamic hiring process.
 
 Uses a larger training set that stored in this repository to predict if an applicants CV is good enough to move them onto an interview
 
-#Dependencies
+# Dependencies
 * React.js
 * Python Django
 * Django REST Framework
