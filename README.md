@@ -44,7 +44,17 @@ urlpatterns = [
 
 ...so you can also have a custom API and with a few model changes!
 
-##Website
+## Website
+### Disclaimer: There are still things that need to be added to the website to fully consume all the functionality the API offers
+
+The features the website can perform are ticked off but the ones you might have to implement are not
+
+- [x] Login as an applicant and a recruiter
+- [x] Fill in a standardised CV as an applicant  
+- [x] Display machine learning reports to recruiters
+- [ ] Create new job postings as a recruiter
+- [ ] Use sliders to provide feedback for reinforcement learning
+
 
 If don't want to use a custom frontend you can use the website we have developed, here are a few screenshots of the CV building functionality it offers...
 
@@ -57,13 +67,3 @@ If don't want to use a custom frontend you can use the website we have developed
 ...and another one!
 
 ![CVSS3](img/6.png)
-
-### Disclaimer: There are still things that need to be added to the website to fully consume all the functionality the API offers
-
-The features the website can perform are ticked off but the ones you might have to implement are not
-
-- [x] Login as an applicant and a recruiter
-- [x] Fill in a standardised CV as an applicant  
-- [x] Display machine learning reports to recruiters
-- [ ] Create new job postings as a recruiter
-- [ ] Use sliders to provide feedback for reinforcement learning
