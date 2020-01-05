@@ -1,0 +1,279 @@
+[{"Name": "Jaunita Adell", "Degree Qualification": "Physics, MPhys", "Degree Level": "2:1", "University Attended": "Princeton University", "A-Level Qualifications": [{"Subject": "Mathematics", "Grade": "A"}, {"Subject": "Japanese ", "Grade": "A"}, {"Subject": "English Language and Literature ", "Grade": "A"}, {"Subject": "Irish ", "Grade": "A"}], "Languages Known": [{"Language": "Visual Basic .NET", "Expertise": 9}, {"Language": "Ruby", "Expertise": 9}, {"Language": "C++", "Expertise": 4}, {"Language": "HTML", "Expertise": 6}, {"Language": "Ruby-on-rails", "Expertise": 6}, {"Language": "Executable UML", "Expertise": 8}, {"Language": "UNITY", "Expertise": 4}, {"Language": "TeX", "Expertise": 6}, {"Language": "LaTeX", "Expertise": 6}, {"Language": "High Level Assembly", "Expertise": 9}, {"Language": "Visual Basic", "Expertise": 5}, {"Language": "PostScript", "Expertise": 5}, {"Language": "BASIC", "Expertise": 4}, {"Language": "SQL", "Expertise": 6}, {"Language": "Assembly", "Expertise": 8}, {"Language": "Mathematica", "Expertise": 10}, {"Language": "Perl", "Expertise": 4}, {"Language": "R", "Expertise": 9}], "Previous Employment": [{"Company": "Dunder Mifflin", "Position": "Senior Architect", "Length of Employment": "3 years 4 months"}], "Skills": [{"Skill": "Data Entry", "Expertise": 6}, {"Skill": "Maya", "Expertise": 10}], "Hobbies": [{"Name": "Glass blowing", "Interest": 10}]}
+, {"Name": "Cruz Modrak", "Degree Qualification": "Mathematics and Statistics, MMathStat", "Degree Level": "2:2", "University Attended": "University of Illinois at Urbana-Champaign", "A-Level Qualifications": [{"Subject": "Mathematics", "Grade": "A"}, {"Subject": "Further Mathematics", "Grade": "A"}, {"Subject": "Technology and Design ", "Grade": "A"}, {"Subject": "Applied Business ", "Grade": "B"}], "Languages Known": [{"Language": "C", "Expertise": 6}, {"Language": "Visual Basic .NET", "Expertise": 4}, {"Language": "SQL", "Expertise": 7}, {"Language": "Java", "Expertise": 5}, {"Language": "Executable UML", "Expertise": 8}, {"Language": "Fortran", "Expertise": 8}, {"Language": "Prolog", "Expertise": 5}, {"Language": "MATLAB", "Expertise": 8}, {"Language": "Ruby", "Expertise": 4}, {"Language": "Scala", "Expertise": 9}, {"Language": "Mathematica", "Expertise": 5}, {"Language": "Python", "Expertise": 9}, {"Language": "JSON", "Expertise": 9}, {"Language": "Ruby-on-rails", "Expertise": 10}], "Previous Employment": [], "Skills": [{"Skill": "Chinese", "Expertise": 9}, {"Skill": "German", "Expertise": 5}, {"Skill": "Motivated", "Expertise": 4}, {"Skill": "Fundraising", "Expertise": 10}, {"Skill": "Text Editing", "Expertise": 8}, {"Skill": "Flute", "Expertise": 3}, {"Skill": "Data Entry", "Expertise": 9}, {"Skill": "Negotiating", "Expertise": 4}], "Hobbies": [{"Name": "Vintage art", "Interest": 8}, {"Name": "Parachuting", "Interest": 3}, {"Name": "Stamp collecting", "Interest": 10}, {"Name": "Acrobatics", "Interest": 6}, {"Name": "Yo-yoing", "Interest": 3}, {"Name": "Cars", "Interest": 2}]}, {"Name": "Lovetta Helfert", "Degree Qualification": "Mathematics and Philosophy, BA", "Degree Level": "2:1", "University Attended": "University of California", "A-Level Qualifications": [{"Subject": "Mathematics", "Grade": "A"}, {"Subject": "Further Mathematics", "Grade": "A"}, {"Subject": "Critical Thinking ", "Grade": "A"}, {"Subject": "Product Design ", "Grade": "C"}], "Languages Known": [{"Language": "SQL", "Expertise": 6}, {"Language": "Ruby", "Expertise": 5}, {"Language": "Java", "Expertise": 6}, {"Language": "Python", "Expertise": 7}, {"Language": "R", "Expertise": 6}], "Previous Employment": [{"Company": "Xanatos Industries", "Position": "Software Tester", "Length of Employment": "3 years 11 months"}, {"Company": "Peptic Thunder", "Position": "Systems Analyst", "Length of Employment": "4 years 4 months"}, {"Company": "Vault-Tec", "Position": "Senior Systems Analyst", "Length of Employment": "7 months"}, {"Company": "Barrytron Limited", "Position": "Project Lead", "Length of Employment": "1 year 10 months"}, {"Company": "Monsters Inc.", "Position": "Senior Systems Analyst", "Length of Employment": "4 years"}], "Skills": [{"Skill": "French", "Expertise": 2}, {"Skill": "Flute", "Expertise": 4}, {"Skill": "Publisher", "Expertise": 3}, {"Skill": "Guitar", "Expertise": 6}, {"Skill": "Access", "Expertise": 6}, {"Skill": "Google analytics", "Expertise": 4}], "Hobbies": [{"Name": "Book restoration", "Interest": 9}, {"Name": "Foraging", "Interest": 10}, {"Name": "Body building", "Interest": 9}, {"Name": "Football", "Interest": 8}, {"Name": "Hockey", "Interest": 2}, {"Name": "Woodworking", "Interest": 2}, {"Name": "Travelling", "Interest": 6}, {"Name": "Basketball", "Interest": 4}]}]
+
+{
+  "Name": "Cruz Modrak",
+  "Degree Qualification": "Mathematics and Statistics, MMathStat",
+  "Degree Level": "2:2",
+  "University Attended": "University of Illinois at Urbana-Champaign",
+  "A-Level Qualifications": [
+    {
+      "Subject": "Mathematics",
+      "Grade": "A"
+    },
+    {
+      "Subject": "Further Mathematics",
+      "Grade": "A"
+    },
+    {
+      "Subject": "Technology and Design ",
+      "Grade": "A"
+    },
+    {
+      "Subject": "Applied Business ",
+      "Grade": "B"
+    }
+  ],
+  "Languages Known": [
+    {
+      "Language": "C",
+      "Expertise": 6
+    },
+    {
+      "Language": "Visual Basic .NET",
+      "Expertise": 4
+    },
+    {
+      "Language": "SQL",
+      "Expertise": 7
+    },
+    {
+      "Language": "Java",
+      "Expertise": 5
+    },
+    {
+      "Language": "Executable UML",
+      "Expertise": 8
+    },
+    {
+      "Language": "Fortran",
+      "Expertise": 8
+    },
+    {
+      "Language": "Prolog",
+      "Expertise": 5
+    },
+    {
+      "Language": "MATLAB",
+      "Expertise": 8
+    },
+    {
+      "Language": "Ruby",
+      "Expertise": 4
+    },
+    {
+      "Language": "Scala",
+      "Expertise": 9
+    },
+    {
+      "Language": "Mathematica",
+      "Expertise": 5
+    },
+    {
+      "Language": "Python",
+      "Expertise": 9
+    },
+    {
+      "Language": "JSON",
+      "Expertise": 9
+    },
+    {
+      "Language": "Ruby-on-rails",
+      "Expertise": 10
+    }
+  ],
+  "Previous Employment": [],
+  "Skills": [
+    {
+      "Skill": "Chinese",
+      "Expertise": 9
+    },
+    {
+      "Skill": "German",
+      "Expertise": 5
+    },
+    {
+      "Skill": "Motivated",
+      "Expertise": 4
+    },
+    {
+      "Skill": "Fundraising",
+      "Expertise": 10
+    },
+    {
+      "Skill": "Text Editing",
+      "Expertise": 8
+    },
+    {
+      "Skill": "Flute",
+      "Expertise": 3
+    },
+    {
+      "Skill": "Data Entry",
+      "Expertise": 9
+    },
+    {
+      "Skill": "Negotiating",
+      "Expertise": 4
+    }
+  ],
+  "Hobbies": [
+    {
+      "Name": "Vintage art",
+      "Interest": 8
+    },
+    {
+      "Name": "Parachuting",
+      "Interest": 3
+    },
+    {
+      "Name": "Stamp collecting",
+      "Interest": 10
+    },
+    {
+      "Name": "Acrobatics",
+      "Interest": 6
+    },
+    {
+      "Name": "Yo-yoing",
+      "Interest": 3
+    },
+    {
+      "Name": "Cars",
+      "Interest": 2
+    }
+  ]
+},
+{
+  "Name": "Lovetta Helfert",
+  "Degree Qualification": "Mathematics and Philosophy, BA",
+  "Degree Level": "2:1",
+  "University Attended": "University of California",
+  "A-Level Qualifications": [
+    {
+      "Subject": "Mathematics",
+      "Grade": "A"
+    },
+    {
+      "Subject": "Further Mathematics",
+      "Grade": "A"
+    },
+    {
+      "Subject": "Critical Thinking ",
+      "Grade": "A"
+    },
+    {
+      "Subject": "Product Design ",
+      "Grade": "C"
+    }
+  ],
+  "Languages Known": [
+    {
+      "Language": "SQL",
+      "Expertise": 6
+    },
+    {
+      "Language": "Ruby",
+      "Expertise": 5
+    },
+    {
+      "Language": "Java",
+      "Expertise": 6
+    },
+    {
+      "Language": "Python",
+      "Expertise": 7
+    },
+    {
+      "Language": "R",
+      "Expertise": 6
+    }
+  ],
+  "Previous Employment": [
+    {
+      "Company": "Xanatos Industries",
+      "Position": "Software Tester",
+      "Length of Employment": "3 years 11 months"
+    },
+    {
+      "Company": "Peptic Thunder",
+      "Position": "Systems Analyst",
+      "Length of Employment": "4 years 4 months"
+    },
+    {
+      "Company": "Vault-Tec",
+      "Position": "Senior Systems Analyst",
+      "Length of Employment": "7 months"
+    },
+    {
+      "Company": "Barrytron Limited",
+      "Position": "Project Lead",
+      "Length of Employment": "1 year 10 months"
+    },
+    {
+      "Company": "Monsters Inc.",
+      "Position": "Senior Systems Analyst",
+      "Length of Employment": "4 years"
+    }
+  ],
+  "Skills": [
+    {
+      "Skill": "French",
+      "Expertise": 2
+    },
+    {
+      "Skill": "Flute",
+      "Expertise": 4
+    },
+    {
+      "Skill": "Publisher",
+      "Expertise": 3
+    },
+    {
+      "Skill": "Guitar",
+      "Expertise": 6
+    },
+    {
+      "Skill": "Access",
+      "Expertise": 6
+    },
+    {
+      "Skill": "Google analytics",
+      "Expertise": 4
+    }
+  ],
+  "Hobbies": [
+    {
+      "Name": "Book restoration",
+      "Interest": 9
+    },
+    {
+      "Name": "Foraging",
+      "Interest": 10
+    },
+    {
+      "Name": "Body building",
+      "Interest": 9
+    },
+    {
+      "Name": "Football",
+      "Interest": 8
+    },
+    {
+      "Name": "Hockey",
+      "Interest": 2
+    },
+    {
+      "Name": "Woodworking",
+      "Interest": 2
+    },
+    {
+      "Name": "Travelling",
+      "Interest": 6
+    },
+    {
+      "Name": "Basketball",
+      "Interest": 4
+    }
+  ]
+}

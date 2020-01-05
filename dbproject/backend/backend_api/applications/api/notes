@@ -1,0 +1,6 @@
+requirements:
+get all jobs objects
+filter
+  get available jobs
+  get locations
+  get non avaiable jobs

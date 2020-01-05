@@ -1,0 +1,547 @@
+{
+  "Name": "Rosa Pietryga",
+  "Degree Qualification": "Computer Science, MEng",
+  "Degree Level": "1st",
+  "University Attended": "Duke University",
+  "A-Level Qualifications": [
+    {
+      "Subject": "Mathematics",
+      "Grade": "A"
+    },
+    {
+      "Subject": "Arabic ",
+      "Grade": "C"
+    },
+    {
+      "Subject": "Dutch ",
+      "Grade": "A"
+    }
+  ],
+  "Languages Known": [
+    {
+      "Language": "Visual Basic .NET",
+      "Expertise": 9
+    },
+    {
+      "Language": "SQL",
+      "Expertise": 5
+    },
+    {
+      "Language": "Python",
+      "Expertise": 5
+    },
+    {
+      "Language": "Java",
+      "Expertise": 9
+    },
+    {
+      "Language": "JSON",
+      "Expertise": 9
+    },
+    {
+      "Language": "PostScript",
+      "Expertise": 6
+    },
+    {
+      "Language": "COBOL",
+      "Expertise": 5
+    },
+    {
+      "Language": "Visual Basic",
+      "Expertise": 10
+    },
+    {
+      "Language": "C++",
+      "Expertise": 8
+    },
+    {
+      "Language": "LaTeX",
+      "Expertise": 6
+    }
+  ],
+  "Previous Employment": [
+    {
+      "Company": "Mustang Arms",
+      "Position": "Senior Manager",
+      "Length of Employment": "2 years 7 months"
+    }
+  ],
+  "Skills": [
+    {
+      "Skill": "Publisher",
+      "Expertise": 4
+    },
+    {
+      "Skill": "Chinese",
+      "Expertise": 2
+    },
+    {
+      "Skill": "Adobe Photoshop",
+      "Expertise": 9
+    },
+    {
+      "Skill": "Google Drive",
+      "Expertise": 10
+    },
+    {
+      "Skill": "French",
+      "Expertise": 9
+    },
+    {
+      "Skill": "German",
+      "Expertise": 2
+    },
+    {
+      "Skill": "Troubleshooting",
+      "Expertise": 1
+    },
+    {
+      "Skill": "Slack",
+      "Expertise": 7
+    }
+  ],
+  "Hobbies": [
+    {
+      "Name": "Board games",
+      "Interest": 5
+    },
+    {
+      "Name": "Coin collecting",
+      "Interest": 6
+    }
+  ]
+}
+
+{
+  "Name": "Kayce Demeter",
+  "Degree Qualification": "Discrete Mathematics, BSc",
+  "Degree Level": "2:1",
+  "University Attended": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausann",
+  "A-Level Qualifications": [
+    {
+      "Subject": "Mathematics",
+      "Grade": "A"
+    },
+    {
+      "Subject": "Further Mathematics",
+      "Grade": "A"
+    },
+    {
+      "Subject": "General Studies ",
+      "Grade": "C"
+    },
+    {
+      "Subject": "Classical Civilisation ",
+      "Grade": "B"
+    }
+  ],
+  "Languages Known": [
+    {
+      "Language": "C#",
+      "Expertise": 8
+    },
+    {
+      "Language": "C++",
+      "Expertise": 5
+    },
+    {
+      "Language": "Python",
+      "Expertise": 8
+    },
+    {
+      "Language": "Ruby-on-rails",
+      "Expertise": 6
+    },
+    {
+      "Language": "Ruby",
+      "Expertise": 6
+    },
+    {
+      "Language": "Go!",
+      "Expertise": 6
+    },
+    {
+      "Language": "JScript",
+      "Expertise": 6
+    },
+    {
+      "Language": "Scala",
+      "Expertise": 7
+    },
+    {
+      "Language": "Visual Basic .NET",
+      "Expertise": 7
+    },
+    {
+      "Language": "PhP",
+      "Expertise": 8
+    },
+    {
+      "Language": "Bash",
+      "Expertise": 7
+    },
+    {
+      "Language": "Hack",
+      "Expertise": 10
+    },
+    {
+      "Language": "Haskell",
+      "Expertise": 4
+    }
+  ],
+  "Previous Employment": [
+    {
+      "Company": "Ultro Corporation",
+      "Position": "Senior Manager",
+      "Length of Employment": "2 years 6 months"
+    }
+  ],
+  "Skills": [],
+  "Hobbies": [
+    {
+      "Name": "Competitive eating",
+      "Interest": 8
+    }
+  ]
+}
+
+{
+  "Name": "Selene Rogers",
+  "Degree Qualification": "Law with Humanities, BA",
+  "Degree Level": "2:1",
+  "University Attended": "Seoul National University",
+  "A-Level Qualifications": [
+    {
+      "Subject": "Bengali ",
+      "Grade": "A*"
+    },
+    {
+      "Subject": "Thinking Skills ",
+      "Grade": "C"
+    },
+    {
+      "Subject": "Psychology ",
+      "Grade": "A"
+    }
+  ],
+  "Languages Known": [
+    {
+      "Language": "Java",
+      "Expertise": 4
+    },
+    {
+      "Language": "Python",
+      "Expertise": 2
+    }
+  ],
+  "Previous Employment": [
+    {
+      "Company": "Buy N Large",
+      "Position": "Module Lead",
+      "Length of Employment": "1 year 8 months"
+    },
+    {
+      "Company": "The New Firm",
+      "Position": "Associate Manager",
+      "Length of Employment": "2 years 2 months"
+    },
+    {
+      "Company": "Consumer Recreation Services",
+      "Position": "Consultant",
+      "Length of Employment": "4 years 1 month"
+    }
+  ],
+  "Skills": [
+    {
+      "Skill": "Keynote",
+      "Expertise": 9
+    },
+    {
+      "Skill": "Powerpoint",
+      "Expertise": 9
+    },
+    {
+      "Skill": "Word",
+      "Expertise": 5
+    },
+    {
+      "Skill": "Guitar",
+      "Expertise": 5
+    },
+    {
+      "Skill": "Text Editing",
+      "Expertise": 2
+    },
+    {
+      "Skill": "Public Speaking",
+      "Expertise": 5
+    }
+  ],
+  "Hobbies": [
+    {
+      "Name": "Insect collecting",
+      "Interest": 10
+    },
+    {
+      "Name": "Gymnastics",
+      "Interest": 10
+    },
+    {
+      "Name": "Formula 1",
+      "Interest": 3
+    },
+    {
+      "Name": "Fossil hunting",
+      "Interest": 6
+    },
+    {
+      "Name": "Coin collecting",
+      "Interest": 6
+    },
+    {
+      "Name": "Yo-yoing",
+      "Interest": 8
+    }
+  ]
+}
+
+{
+  "Name": "Iris Reil",
+  "Degree Qualification": "Mathematics and Statistics, BSc",
+  "Degree Level": "2:1",
+  "University Attended": "Carnegie Mellon University",
+  "A-Level Qualifications": [
+    {
+      "Subject": "Mathematics",
+      "Grade": "A*"
+    },
+    {
+      "Subject": "Further Mathematics",
+      "Grade": "A*"
+    },
+    {
+      "Subject": "Film Studies ",
+      "Grade": "A"
+    },
+    {
+      "Subject": "Classical Greek ",
+      "Grade": "C"
+    }
+  ],
+  "Languages Known": [
+    {
+      "Language": "C#",
+      "Expertise": 8
+    },
+    {
+      "Language": "SQL",
+      "Expertise": 6
+    },
+    {
+      "Language": "C++",
+      "Expertise": 9
+    },
+    {
+      "Language": "Ruby",
+      "Expertise": 4
+    },
+    {
+      "Language": "HTML",
+      "Expertise": 10
+    },
+    {
+      "Language": "Haskell",
+      "Expertise": 4
+    },
+    {
+      "Language": "Visual Basic .NET",
+      "Expertise": 6
+    },
+    {
+      "Language": "Unix Shell",
+      "Expertise": 7
+    }
+  ],
+  "Previous Employment": [],
+  "Skills": [
+    {
+      "Skill": "Mentoring",
+      "Expertise": 7
+    },
+    {
+      "Skill": "Accounting",
+      "Expertise": 5
+    },
+    {
+      "Skill": "Japanese",
+      "Expertise": 1
+    },
+    {
+      "Skill": "Networking",
+      "Expertise": 3
+    },
+    {
+      "Skill": "Data Entry",
+      "Expertise": 10
+    }
+  ],
+  "Hobbies": [
+    {
+      "Name": "Extreme sports",
+      "Interest": 6
+    },
+    {
+      "Name": "Graffiti",
+      "Interest": 7
+    },
+    {
+      "Name": "Lotology",
+      "Interest": 5
+    },
+    {
+      "Name": "Polo",
+      "Interest": 7
+    },
+    {
+      "Name": "Roller blading",
+      "Interest": 8
+    },
+    {
+      "Name": "Book collecting",
+      "Interest": 3
+    },
+    {
+      "Name": "Cabaret",
+      "Interest": 3
+    }
+  ]
+}
+{
+  "Name": "In Ewton",
+  "Degree Qualification": "Discrete Mathematics, MEng",
+  "Degree Level": "1st",
+  "University Attended": "Northwestern University",
+  "A-Level Qualifications": [
+    {
+      "Subject": "Mathematics",
+      "Grade": "A"
+    },
+    {
+      "Subject": "Politics ",
+      "Grade": "B"
+    },
+    {
+      "Subject": "Hindi ",
+      "Grade": "A"
+    },
+    {
+      "Subject": "Professional Business Services ",
+      "Grade": "B"
+    }
+  ],
+  "Languages Known": [
+    {
+      "Language": "Visual Basic .NET",
+      "Expertise": 9
+    },
+    {
+      "Language": "Ruby",
+      "Expertise": 8
+    },
+    {
+      "Language": "C++",
+      "Expertise": 7
+    },
+    {
+      "Language": "High Level Assembly",
+      "Expertise": 8
+    },
+    {
+      "Language": "SQL",
+      "Expertise": 10
+    },
+    {
+      "Language": "MATLAB",
+      "Expertise": 8
+    },
+    {
+      "Language": "Lisp",
+      "Expertise": 7
+    },
+    {
+      "Language": "Bash",
+      "Expertise": 8
+    }
+  ],
+  "Previous Employment": [
+    {
+      "Company": "Hooli",
+      "Position": "Senior Software Developer",
+      "Length of Employment": "3 years 2 months"
+    }
+  ],
+  "Skills": [
+    {
+      "Skill": "Google analytics",
+      "Expertise": 1
+    },
+    {
+      "Skill": "Search engine optimization",
+      "Expertise": 2
+    },
+    {
+      "Skill": "Public Speaking",
+      "Expertise": 10
+    },
+    {
+      "Skill": "Google Drive",
+      "Expertise": 6
+    },
+    {
+      "Skill": "Networking",
+      "Expertise": 2
+    },
+    {
+      "Skill": "Publisher",
+      "Expertise": 1
+    },
+    {
+      "Skill": "German",
+      "Expertise": 7
+    },
+    {
+      "Skill": "Keynote",
+      "Expertise": 6
+    }
+  ],
+  "Hobbies": [
+    {
+      "Name": "Seashell collecting",
+      "Interest": 4
+    },
+    {
+      "Name": "Scuba diving",
+      "Interest": 6
+    },
+    {
+      "Name": "Bridge",
+      "Interest": 4
+    },
+    {
+      "Name": "Comic books",
+      "Interest": 3
+    },
+    {
+      "Name": "Yoga",
+      "Interest": 1
+    },
+    {
+      "Name": "Travelling",
+      "Interest": 3
+    },
+    {
+      "Name": "Anime",
+      "Interest": 10
+    }
+  ]
+}
