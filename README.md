@@ -65,5 +65,5 @@ The features the website can perform are ticked off but the ones you might have 
 - [x] Login as an applicant and a recruiter
 - [x] Fill in a standardised CV as an applicant  
 - [x] Display machine learning reports to recruiters
-- [] Create new job postings as a recruiter
-- [] Use sliders to provide feedback for reinforcement learning
+- [ ] Create new job postings as a recruiter
+- [ ] Use sliders to provide feedback for reinforcement learning
