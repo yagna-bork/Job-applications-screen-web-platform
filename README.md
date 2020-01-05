@@ -6,6 +6,13 @@ Concept was to help them shift towards a more dynamic hiring process.
 
 Uses a larger training set that stored in this repository to predict if an applicants CV is good enough to move them onto an interview
 
+#Dependencies
+* React.js
+* Python Django
+* Django REST Framework
+* MySQL with an Apache Server
+* TensorFlow
+
 # Features
 ## Neural network
 A neural network with 8 hidden layers like this one...
